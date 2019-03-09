@@ -1,0 +1,19 @@
+{
+  "name": "ethparis_printer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthieu-Coddity/ethparis_printer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthieu-Coddity/ethparis_printer/issues"
+  },
+  "homepage": "https://github.com/Matthieu-Coddity/ethparis_printer#readme"
+}
